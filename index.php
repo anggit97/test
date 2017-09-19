@@ -6,5 +6,7 @@
 </head>
 <body>
 	<h1>ini perubahan index.php</h1>
+
+	awdawd
 </body>
 </html>
